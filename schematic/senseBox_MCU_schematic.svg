@@ -1,0 +1,1469 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="100.8px"
+   height="151.2px"
+   viewBox="0 0 100.8 151.2"
+   xml:space="preserve"
+   sodipodi:docname="senseBox_MCU_schematic.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><metadata
+   id="metadata147"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs145" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1017"
+   id="namedview143"
+   showgrid="false"
+   inkscape:zoom="4.4147408"
+   inkscape:cx="164.74667"
+   inkscape:cy="75.887073"
+   inkscape:window-x="310"
+   inkscape:window-y="1432"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<g
+   id="schematic"
+   transform="translate(129.09661,1.9220339)">
+	
+		<rect
+   x="14.85"
+   y="14.85"
+   width="71.100998"
+   height="121.5"
+   id="rect2"
+   style="fill:#ffffff;stroke:#000000;stroke-width:0.89999998;stroke-linecap:round" />
+	
+		<line
+   id="connector103pin"
+   x1="86.050003"
+   y1="28.799999"
+   x2="100.451"
+   y2="28.799999"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" />
+	<text
+   transform="translate(69.3354,29.5005)"
+   font-size="3.5"
+   id="text5"
+   style="font-size:3.5px;font-family:DroidSans;fill:#8c8c8c">D13 PWM</text>
+
+	<rect
+   id="connector103terminal"
+   x="100.451"
+   y="28.450001"
+   width="0.699"
+   height="0.69999999"
+   style="fill:none" />
+	
+		<line
+   id="connector102pin"
+   x1="86.050003"
+   y1="36"
+   x2="100.451"
+   y2="36"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" />
+	<text
+   transform="translate(71.1108,36.6997)"
+   font-size="3.5"
+   id="text9"
+   style="font-size:3.5px;font-family:DroidSans;fill:#8c8c8c">D12/A11</text>
+
+	<rect
+   id="connector102terminal"
+   x="100.451"
+   y="35.650002"
+   width="0.699"
+   height="0.69999999"
+   style="fill:none" />
+	
+		<line
+   id="connector101pin"
+   x1="86.050003"
+   y1="43.200001"
+   x2="100.451"
+   y2="43.200001"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" />
+	<text
+   transform="translate(69.3354,43.9009)"
+   font-size="3.5"
+   id="text13"
+   style="font-size:3.5px;font-family:DroidSans;fill:#8c8c8c">D11 PWM</text>
+
+	<rect
+   id="connector101terminal"
+   x="100.451"
+   y="42.849998"
+   width="0.699"
+   height="0.69999999"
+   style="fill:none" />
+	
+		<line
+   id="connector100pin"
+   x1="86.050003"
+   y1="50.400002"
+   x2="100.451"
+   y2="50.400002"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" />
+	<text
+   transform="translate(62.0464,51.1001)"
+   font-size="3.5"
+   id="text17"
+   style="font-size:3.5px;font-family:DroidSans;fill:#8c8c8c">D10 PWM/A10</text>
+
+	<rect
+   id="connector100terminal"
+   x="100.451"
+   y="50.049999"
+   width="0.699"
+   height="0.69999999"
+   style="fill:none" />
+	
+		<line
+   id="connector99pin"
+   x1="86.050003"
+   y1="57.599998"
+   x2="100.451"
+   y2="57.599998"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" />
+	<text
+   transform="translate(65.9019,58.3013)"
+   font-size="3.5"
+   id="text21"
+   style="font-size:3.5px;font-family:DroidSans;fill:#8c8c8c">D9 PWM/A9</text>
+
+	<text
+   transform="translate(74.9663,65.5005)"
+   font-size="3.5"
+   id="text23"
+   style="font-size:3.5px;font-family:DroidSans;fill:#8c8c8c">D8/A8</text>
+
+	<rect
+   id="connector99terminal"
+   x="100.451"
+   y="57.25"
+   width="0.699"
+   height="0.69999999"
+   style="fill:none" />
+	
+		<line
+   id="connector98pin"
+   x1="86.050003"
+   y1="64.800003"
+   x2="100.451"
+   y2="64.800003"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" />
+	<rect
+   id="connector98terminal"
+   x="100.451"
+   y="64.449997"
+   width="0.699"
+   height="0.69999999"
+   style="fill:none" />
+	
+		<line
+   id="connector83pin"
+   x1="86.050003"
+   y1="72"
+   x2="100.451"
+   y2="72"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" />
+	<text
+   transform="translate(80.3276,72.6997)"
+   font-size="3.5"
+   id="text29"
+   style="font-size:3.5px;font-family:DroidSans;fill:#8c8c8c">D7</text>
+
+	<rect
+   id="connector83terminal"
+   x="100.451"
+   y="71.650002"
+   width="0.699"
+   height="0.69999999"
+   style="fill:none" />
+	
+		<line
+   id="connector82pin"
+   x1="86.050003"
+   y1="79.199997"
+   x2="100.451"
+   y2="79.199997"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" />
+	<text
+   transform="translate(65.9019,79.9009)"
+   font-size="3.5"
+   id="text33"
+   style="font-size:3.5px;font-family:DroidSans;fill:#8c8c8c">D6 PWM/A7</text>
+
+	<rect
+   id="connector82terminal"
+   x="100.451"
+   y="78.849998"
+   width="0.699"
+   height="0.699"
+   style="fill:none" />
+	
+		<line
+   id="connector81pin"
+   x1="86.050003"
+   y1="86.400002"
+   x2="100.451"
+   y2="86.400002"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" />
+	<text
+   transform="translate(71.2632,87.1001)"
+   font-size="3.5"
+   id="text37"
+   style="font-size:3.5px;font-family:DroidSans;fill:#8c8c8c">D5 PWM</text>
+
+	<rect
+   id="connector81terminal"
+   x="100.451"
+   y="86.049004"
+   width="0.699"
+   height="0.70099998"
+   style="fill:none" />
+	
+		<line
+   id="connector80pin"
+   x1="86.050003"
+   y1="93.599998"
+   x2="100.451"
+   y2="93.599998"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" />
+	<text
+   transform="translate(74.9663,94.3022)"
+   font-size="3.5"
+   id="text41"
+   style="font-size:3.5px;font-family:DroidSans;fill:#8c8c8c">D4/A6</text>
+
+	<rect
+   id="connector80terminal"
+   x="100.451"
+   y="93.25"
+   width="0.699"
+   height="0.699"
+   style="fill:none" />
+	<line
+   id="connector79pin"
+   x1="86.050003"
+   y1="100.799"
+   x2="100.451"
+   y2="100.799"
+   style="fill:none" />
+	<rect
+   id="connector79terminal"
+   x="100.451"
+   y="100.45"
+   width="0.699"
+   height="0.69999999"
+   style="fill:none" />
+	
+		<line
+   id="connector107pin"
+   x1="86.050003"
+   y1="100.799"
+   x2="100.451"
+   y2="100.799"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" />
+	<text
+   transform="translate(79.0034,101.5005)"
+   font-size="3.5"
+   id="text47"
+   style="font-size:3.5px;font-family:DroidSans;fill:#8c8c8c">SCL</text>
+
+	<rect
+   id="connector107terminal"
+   x="100.451"
+   y="100.45"
+   width="0.699"
+   height="0.69999999"
+   style="fill:none" />
+	<line
+   id="connector78pin"
+   x1="86.050003"
+   y1="108"
+   x2="100.451"
+   y2="108"
+   style="fill:none" />
+	<rect
+   id="connector78terminal"
+   x="100.451"
+   y="107.65"
+   width="0.699"
+   height="0.69999999"
+   style="fill:none" />
+	
+		<line
+   id="connector106pin"
+   x1="86.050003"
+   y1="108"
+   x2="100.451"
+   y2="108"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" />
+	<text
+   transform="translate(78.3452,108.6997)"
+   font-size="3.5"
+   id="text53"
+   style="font-size:3.5px;font-family:DroidSans;fill:#8c8c8c">S</text>
+
+	<text
+   transform="translate(80.1616,108.6997)"
+   font-size="3.5"
+   id="text55"
+   style="font-size:3.5px;font-family:DroidSans;fill:#8c8c8c">D</text>
+
+	<text
+   transform="translate(82.522,108.6997)"
+   font-size="3.5"
+   id="text57"
+   style="font-size:3.5px;font-family:DroidSans;fill:#8c8c8c">A</text>
+
+	<rect
+   id="connector106terminal"
+   x="100.451"
+   y="107.65"
+   width="0.699"
+   height="0.69999999"
+   style="fill:none" />
+	
+		<line
+   id="connector77pin"
+   x1="86.050003"
+   y1="115.2"
+   x2="100.451"
+   y2="115.2"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" />
+	<text
+   transform="translate(75.2905,115.9028)"
+   font-size="3.5"
+   id="text61"
+   style="font-size:3.5px;font-family:DroidSans;fill:#8c8c8c">D1/TX</text>
+
+	<rect
+   id="connector77terminal"
+   x="100.451"
+   y="114.85"
+   width="0.699"
+   height="0.699"
+   style="fill:none" />
+	
+		<line
+   id="connector76pin"
+   x1="86.050003"
+   y1="122.4"
+   x2="100.451"
+   y2="122.4"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" />
+	<text
+   transform="translate(75.0425,123.1001)"
+   font-size="3.5"
+   id="text65"
+   style="font-size:3.5px;font-family:DroidSans;fill:#8c8c8c">D0/RX</text>
+
+	<rect
+   id="connector76terminal"
+   x="100.451"
+   y="122.049"
+   width="0.699"
+   height="0.70099998"
+   style="fill:none" />
+	
+		<line
+   id="connector105pin"
+   x1="0.34999999"
+   y1="28.799999"
+   x2="14.75"
+   y2="28.799999"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" />
+	<text
+   transform="translate(16.1504,29.5005)"
+   font-size="3.5"
+   id="text69"
+   style="font-size:3.5px;font-family:DroidSans;fill:#8c8c8c">AREF</text>
+
+	<text
+   transform="translate(16.1504,36.6997)"
+   font-size="3.5"
+   id="text71"
+   style="font-size:3.5px;font-family:DroidSans;fill:#8c8c8c">Reset</text>
+
+	<rect
+   id="connector105terminal"
+   x="-0.34999999"
+   y="28.450001"
+   width="0.69999999"
+   height="0.69999999"
+   style="fill:none" />
+	
+		<line
+   id="connector86pin"
+   x1="0.34999999"
+   y1="36"
+   x2="14.75"
+   y2="36"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" />
+	<rect
+   id="connector86terminal"
+   x="-0.34999999"
+   y="35.650002"
+   width="0.69999999"
+   height="0.69999999"
+   style="fill:none" />
+	
+		<line
+   id="connector84pin"
+   x1="0.34999999"
+   y1="50.400002"
+   x2="14.75"
+   y2="50.400002"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" />
+	<text
+   transform="translate(16.1504,43.9009)"
+   font-size="3.5"
+   id="text77"
+   style="font-size:3.5px;font-family:DroidSans;fill:#8c8c8c">I</text>
+
+	<text
+   transform="translate(17.3022,43.9009)"
+   font-size="3.5"
+   id="text79"
+   style="font-size:3.5px;font-family:DroidSans;fill:#8c8c8c">O</text>
+
+	<text
+   transform="translate(19.8999,43.9009)"
+   font-size="3.5"
+   id="text81"
+   style="font-size:3.5px;font-family:DroidSans;fill:#8c8c8c">R</text>
+
+	<text
+   transform="translate(21.9644,43.9009)"
+   font-size="3.5"
+   id="text83"
+   style="font-size:3.5px;font-family:DroidSans;fill:#8c8c8c">E</text>
+
+	<text
+   transform="translate(23.8115,43.9009)"
+   font-size="3.5"
+   id="text85"
+   style="font-size:3.5px;font-family:DroidSans;fill:#8c8c8c">F</text>
+
+	<text
+   transform="translate(16.1504,51.103)"
+   font-size="3.5"
+   id="text87"
+   style="font-size:3.5px;font-family:DroidSans;fill:#8c8c8c">n.c.</text>
+
+	<rect
+   id="connector84terminal"
+   x="-0.34999999"
+   y="50.049999"
+   width="0.69999999"
+   height="0.69999999"
+   style="fill:none" />
+	
+		<line
+   id="connector85pin"
+   x1="0.34999999"
+   y1="43.200001"
+   x2="14.75"
+   y2="43.200001"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" />
+	<rect
+   id="connector85terminal"
+   x="-0.34999999"
+   y="42.849998"
+   width="0.69999999"
+   height="0.69999999"
+   style="fill:none" />
+	
+		<line
+   id="connector88pin"
+   x1="43.200001"
+   y1="0.34999999"
+   x2="43.200001"
+   y2="14.75"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" />
+	<rect
+   id="connector88terminal"
+   x="42.849998"
+   y="-0.34999999"
+   width="0.69999999"
+   height="0.69999999"
+   style="fill:none" />
+	
+		<line
+   id="connector92pin"
+   x1="0.34999999"
+   y1="64.800003"
+   x2="14.75"
+   y2="64.800003"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" />
+	<text
+   transform="translate(16.1504,65.5005)"
+   font-size="3.5"
+   id="text95"
+   style="font-size:3.5px;font-family:DroidSans;fill:#8c8c8c">A0</text>
+
+	<rect
+   id="connector92terminal"
+   x="-0.34999999"
+   y="64.449997"
+   width="0.69999999"
+   height="0.69999999"
+   style="fill:none" />
+	
+		<line
+   id="connector93pin"
+   x1="0.34999999"
+   y1="72"
+   x2="14.75"
+   y2="72"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" />
+	<text
+   transform="translate(16.1504,72.6997)"
+   font-size="3.5"
+   id="text99"
+   style="font-size:3.5px;font-family:DroidSans;fill:#8c8c8c">A1</text>
+
+	<rect
+   id="connector93terminal"
+   x="-0.34999999"
+   y="71.650002"
+   width="0.69999999"
+   height="0.69999999"
+   style="fill:none" />
+	
+		<line
+   id="connector94pin"
+   x1="0.34999999"
+   y1="79.199997"
+   x2="14.75"
+   y2="79.199997"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" />
+	<text
+   transform="translate(16.1504,79.9009)"
+   font-size="3.5"
+   id="text103"
+   style="font-size:3.5px;font-family:DroidSans;fill:#8c8c8c">A2</text>
+
+	<rect
+   id="connector94terminal"
+   x="-0.34999999"
+   y="78.849998"
+   width="0.69999999"
+   height="0.699"
+   style="fill:none" />
+	
+		<line
+   id="connector95pin"
+   x1="0.34999999"
+   y1="86.400002"
+   x2="14.75"
+   y2="86.400002"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" />
+	<text
+   transform="translate(16.1504,87.1001)"
+   font-size="3.5"
+   id="text107"
+   style="font-size:3.5px;font-family:DroidSans;fill:#8c8c8c">A3</text>
+
+	<rect
+   id="connector95terminal"
+   x="-0.34999999"
+   y="86.049004"
+   width="0.69999999"
+   height="0.70099998"
+   style="fill:none" />
+	
+		<line
+   id="connector96pin"
+   x1="0.34999999"
+   y1="93.599998"
+   x2="14.75"
+   y2="93.599998"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" />
+	<text
+   transform="translate(16.1504,94.3022)"
+   font-size="3.5"
+   id="text111"
+   style="font-size:3.5px;font-family:DroidSans;fill:#8c8c8c">A4</text>
+
+	<rect
+   id="connector96terminal"
+   x="-0.34999999"
+   y="93.25"
+   width="0.69999999"
+   height="0.699"
+   style="fill:none" />
+	
+		<line
+   id="connector97pin"
+   x1="0.34999999"
+   y1="100.799"
+   x2="14.75"
+   y2="100.799"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" />
+	<text
+   transform="translate(16.1504,101.5005)"
+   font-size="3.5"
+   id="text115"
+   style="font-size:3.5px;font-family:DroidSans;fill:#8c8c8c">A5</text>
+
+	<rect
+   id="connector97terminal"
+   x="-0.34999999"
+   y="100.45"
+   width="0.69999999"
+   height="0.69999999"
+   style="fill:none" />
+	<line
+   id="connector89pin"
+   x1="50.400002"
+   y1="136.45"
+   x2="50.400002"
+   y2="150.85001"
+   style="fill:none" />
+	<rect
+   id="connector89terminal"
+   x="50.049999"
+   y="150.85001"
+   width="0.69999999"
+   height="0.699"
+   style="fill:none" />
+	<line
+   id="connector90pin"
+   x1="50.400002"
+   y1="136.45"
+   x2="50.400002"
+   y2="150.85001"
+   style="fill:none" />
+	<rect
+   id="connector90terminal"
+   x="50.049999"
+   y="150.85001"
+   width="0.69999999"
+   height="0.699"
+   style="fill:none" />
+	
+		<line
+   id="connector104pin"
+   x1="50.400002"
+   y1="136.45"
+   x2="50.400002"
+   y2="150.85001"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" />
+	<rect
+   id="connector104terminal"
+   x="50.049999"
+   y="150.85001"
+   width="0.69999999"
+   height="0.699"
+   style="fill:none" />
+	
+		<line
+   id="connector87pin"
+   x1="36"
+   y1="0.34999999"
+   x2="36"
+   y2="14.75"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" />
+	<g
+   transform="translate(12.9469,5.69736)"
+   id="g133">
+		<g
+   transform="rotate(-90)"
+   id="g131">
+			<text
+   transform="translate(-16.2953,24.2523)"
+   font-size="3.5"
+   id="text125"
+   style="font-size:3.5px;font-family:DroidSans;fill:#8c8c8c">3V3</text>
+
+			<text
+   transform="translate(-14.4633,31.3011)"
+   font-size="3.5"
+   id="text127"
+   style="font-size:3.5px;font-family:DroidSans;fill:#8c8c8c">5V</text>
+
+			<text
+   transform="translate(-16.2953,45.8846)"
+   font-size="3.5"
+   id="text129"
+   style="font-size:3.5px;font-family:DroidSans;fill:#8c8c8c">VIN</text>
+
+		</g>
+	</g>
+	<rect
+   id="connector87terminal"
+   x="35.650002"
+   y="-0.34999999"
+   width="0.69999999"
+   height="0.69999999"
+   style="fill:none" />
+	
+		<line
+   id="connector91pin"
+   x1="57.599998"
+   y1="0.34999999"
+   x2="57.599998"
+   y2="14.75"
+   style="fill:none;stroke:#787878;stroke-width:0.75;stroke-linecap:round" />
+	<rect
+   id="connector91terminal"
+   x="57.25"
+   y="-0.34999999"
+   width="0.70099998"
+   height="0.69999999"
+   style="fill:none" />
+	<text
+   id="label"
+   transform="translate(43.1855,69.2505)"
+   font-size="4.25"
+   style="font-size:4.25px;font-family:DroidSans">Arduino</text>
+
+	<text
+   id="label_1_"
+   transform="translate(41.7441,73.7837)"
+   font-size="4.25"
+   style="font-size:4.25px;font-family:DroidSans">Leonardo</text>
+
+	<text
+   id="label_2_"
+   transform="translate(43.748,78.3169)"
+   font-size="4.25"
+   style="font-size:4.25px;font-family:DroidSans">(Rev3b)</text>
+
+</g>
+<rect
+   style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+   id="rect956"
+   width="72.076271"
+   height="124.61186"
+   x="15.055932"
+   y="13.454237"
+   rx="5.8378401"
+   ry="4" /><g
+   id="g1041"
+   transform="translate(0,4.1000154)"><g
+     id="g975"><path
+       style="fill:none;stroke:#787878;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 15.176429,23.219664 H 0.45302773"
+       id="path966"
+       inkscape:connector-curvature="0" /><text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="16.762026"
+       y="24.578749"
+       id="text970"><tspan
+         sodipodi:role="line"
+         id="tspan968"
+         x="16.762026"
+         y="24.578749"
+         style="font-size:4px;fill:#666666">GND</tspan></text>
+</g><g
+     id="g975-5"
+     transform="translate(-0.16693981,4.3968278)"><path
+       style="fill:none;stroke:#787878;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 15.176429,23.219664 H 0.45302773"
+       id="path966-0"
+       inkscape:connector-curvature="0" /><text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="16.762026"
+       y="24.578749"
+       id="text970-7"><tspan
+         sodipodi:role="line"
+         id="tspan968-6"
+         x="16.762026"
+         y="24.578749"
+         style="font-size:4px;fill:#666666">5V</tspan></text>
+</g><g
+     id="g975-1"
+     transform="translate(-0.16693974,8.9271048)"><path
+       style="fill:none;stroke:#787878;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 15.176429,23.219664 H 0.45302773"
+       id="path966-1"
+       inkscape:connector-curvature="0" /><text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="16.762026"
+       y="24.578749"
+       id="text970-2"><tspan
+         sodipodi:role="line"
+         id="tspan968-0"
+         x="16.762026"
+         y="24.578749"
+         style="font-size:4px;fill:#666666">1</tspan></text>
+</g><g
+     id="g975-8"
+     transform="translate(0.05957413,13.004354)"><path
+       style="fill:none;stroke:#787878;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 15.176429,23.219664 H 0.45302773"
+       id="path966-6"
+       inkscape:connector-curvature="0" /><text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="16.762026"
+       y="24.578749"
+       id="text970-9"><tspan
+         sodipodi:role="line"
+         id="tspan968-3"
+         x="16.762026"
+         y="24.578749"
+         style="font-size:4px;fill:#666666">2</tspan></text>
+</g></g><g
+   id="g1075"
+   transform="translate(0,23.852252)"><g
+     id="g1049"><path
+       inkscape:connector-curvature="0"
+       id="path1043"
+       d="M 15.176429,23.219664 H 0.45302773"
+       style="fill:none;stroke:#787878;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" /><text
+       id="text1047"
+       y="24.578749"
+       x="16.762026"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-size:4px;fill:#666666"
+         y="24.578749"
+         x="16.762026"
+         id="tspan1045"
+         sodipodi:role="line">GND</tspan></text>
+</g><g
+     transform="translate(-0.16693981,4.3968278)"
+     id="g1057"><path
+       inkscape:connector-curvature="0"
+       id="path1051"
+       d="M 15.176429,23.219664 H 0.45302773"
+       style="fill:none;stroke:#787878;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" /><text
+       id="text1055"
+       y="24.578749"
+       x="16.762026"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-size:4px;fill:#666666"
+         y="24.578749"
+         x="16.762026"
+         id="tspan1053"
+         sodipodi:role="line">5V</tspan></text>
+</g><g
+     transform="translate(-0.16693974,8.9271048)"
+     id="g1065"><path
+       inkscape:connector-curvature="0"
+       id="path1059"
+       d="M 15.176429,23.219664 H 0.45302773"
+       style="fill:none;stroke:#787878;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" /><text
+       id="text1063"
+       y="24.578749"
+       x="16.762026"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-size:4px;fill:#666666"
+         y="24.578749"
+         x="16.762026"
+         id="tspan1061"
+         sodipodi:role="line">3</tspan></text>
+</g><g
+     transform="translate(0.05957413,13.004354)"
+     id="g1073"><path
+       inkscape:connector-curvature="0"
+       id="path1067"
+       d="M 15.176429,23.219664 H 0.45302773"
+       style="fill:none;stroke:#787878;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" /><text
+       id="text1071"
+       y="24.578749"
+       x="16.762026"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-size:4px;fill:#666666"
+         y="24.578749"
+         x="16.762026"
+         id="tspan1069"
+         sodipodi:role="line">4</tspan></text>
+</g></g><g
+   transform="translate(0,45.48766)"
+   id="g1109"><g
+     id="g1083"><path
+       style="fill:none;stroke:#787878;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 15.176429,23.219664 H 0.45302773"
+       id="path1077"
+       inkscape:connector-curvature="0" /><text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="16.762026"
+       y="24.578749"
+       id="text1081"><tspan
+         sodipodi:role="line"
+         id="tspan1079"
+         x="16.762026"
+         y="24.578749"
+         style="font-size:4px;fill:#666666">GND</tspan></text>
+</g><g
+     id="g1091"
+     transform="translate(-0.16693981,4.3968278)"><path
+       style="fill:none;stroke:#787878;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 15.176429,23.219664 H 0.45302773"
+       id="path1085"
+       inkscape:connector-curvature="0" /><text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="16.762026"
+       y="24.578749"
+       id="text1089"><tspan
+         sodipodi:role="line"
+         id="tspan1087"
+         x="16.762026"
+         y="24.578749"
+         style="font-size:4px;fill:#666666">5V</tspan></text>
+</g><g
+     id="g1099"
+     transform="translate(-0.16693974,8.9271048)"><path
+       style="fill:none;stroke:#787878;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 15.176429,23.219664 H 0.45302773"
+       id="path1093"
+       inkscape:connector-curvature="0" /><text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="16.762026"
+       y="24.578749"
+       id="text1097"><tspan
+         sodipodi:role="line"
+         id="tspan1095"
+         x="16.762026"
+         y="24.578749"
+         style="font-size:4px;fill:#666666">5</tspan></text>
+</g><g
+     id="g1107"
+     transform="translate(0.05957413,13.004354)"><path
+       style="fill:none;stroke:#787878;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 15.176429,23.219664 H 0.45302773"
+       id="path1101"
+       inkscape:connector-curvature="0" /><text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="16.762026"
+       y="24.578749"
+       id="text1105"><tspan
+         sodipodi:role="line"
+         id="tspan1103"
+         x="16.762026"
+         y="24.578749"
+         style="font-size:4px;fill:#666666">6</tspan></text>
+</g></g><g
+   id="g1143"
+   transform="translate(55.269379,14.723401)"><g
+     id="g1117"><g
+       id="g1190"><g
+         id="g1148"><path
+           inkscape:connector-curvature="0"
+           id="path1111"
+           d="M 45.472658,13.36631 H 31.72568"
+           style="fill:none;stroke:#787878;stroke-width:0.96627229px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" /><text
+           id="text1115"
+           y="14.782026"
+           x="21.632074"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             style="font-size:4px;fill:#666666"
+             y="14.782026"
+             x="21.632074"
+             id="tspan1113"
+             sodipodi:role="line">GND</tspan></text>
+</g><g
+         transform="translate(0,4.0042372)"
+         id="g1156"><path
+           style="fill:none;stroke:#787878;stroke-width:0.96627229px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 45.472658,13.36631 H 31.72568"
+           id="path1150"
+           inkscape:connector-curvature="0" /><text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           x="21.632074"
+           y="14.782026"
+           id="text1154"><tspan
+             sodipodi:role="line"
+             id="tspan1152"
+             x="21.632074"
+             y="14.782026"
+             style="font-size:4px;fill:#666666">5V</tspan></text>
+</g><g
+         id="g1164"
+         transform="translate(0,7.9283897)"><path
+           inkscape:connector-curvature="0"
+           id="path1158"
+           d="M 45.472658,13.36631 H 31.72568"
+           style="fill:none;stroke:#787878;stroke-width:0.96627229px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" /><text
+           id="text1162"
+           y="14.782026"
+           x="21.632074"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             style="font-size:4px;fill:#666666"
+             y="14.782026"
+             x="21.632074"
+             id="tspan1160"
+             sodipodi:role="line">SDA</tspan></text>
+</g><g
+         transform="translate(0,12.172881)"
+         id="g1172"><path
+           style="fill:none;stroke:#787878;stroke-width:0.96627229px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 45.472658,13.36631 H 31.72568"
+           id="path1166"
+           inkscape:connector-curvature="0" /><text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           x="21.632074"
+           y="14.782026"
+           id="text1170"><tspan
+             sodipodi:role="line"
+             id="tspan1168"
+             x="21.632074"
+             y="14.782026"
+             style="font-size:4px;fill:#666666">SCL</tspan></text>
+</g></g><g
+       id="g1287"
+       transform="translate(0,18.419491)"><g
+         id="g1261"><path
+           style="fill:none;stroke:#787878;stroke-width:0.96627229px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 45.472658,13.36631 H 31.72568"
+           id="path1255"
+           inkscape:connector-curvature="0" /><text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           x="21.632074"
+           y="14.782026"
+           id="text1259"><tspan
+             sodipodi:role="line"
+             id="tspan1257"
+             x="21.632074"
+             y="14.782026"
+             style="font-size:4px;fill:#666666">GND</tspan></text>
+</g><g
+         id="g1269"
+         transform="translate(0,4.0042372)"><path
+           inkscape:connector-curvature="0"
+           id="path1263"
+           d="M 45.472658,13.36631 H 31.72568"
+           style="fill:none;stroke:#787878;stroke-width:0.96627229px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" /><text
+           id="text1267"
+           y="14.782026"
+           x="21.632074"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             style="font-size:4px;fill:#666666"
+             y="14.782026"
+             x="21.632074"
+             id="tspan1265"
+             sodipodi:role="line">5V</tspan></text>
+</g><g
+         transform="translate(0,7.9283897)"
+         id="g1277"><path
+           style="fill:none;stroke:#787878;stroke-width:0.96627229px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 45.472658,13.36631 H 31.72568"
+           id="path1271"
+           inkscape:connector-curvature="0" /><text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           x="21.632074"
+           y="14.782026"
+           id="text1275"><tspan
+             sodipodi:role="line"
+             id="tspan1273"
+             x="21.632074"
+             y="14.782026"
+             style="font-size:4px;fill:#666666">SDA</tspan></text>
+</g><g
+         id="g1285"
+         transform="translate(0,12.172881)"><path
+           inkscape:connector-curvature="0"
+           id="path1279"
+           d="M 45.472658,13.36631 H 31.72568"
+           style="fill:none;stroke:#787878;stroke-width:0.96627229px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" /><text
+           id="text1283"
+           y="14.782026"
+           x="21.632074"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             style="font-size:4px;fill:#666666"
+             y="14.782026"
+             x="21.632074"
+             id="tspan1281"
+             sodipodi:role="line">SCL</tspan></text>
+</g></g><g
+       transform="translate(0,37.159321)"
+       id="g1321"><g
+         id="g1295"><path
+           inkscape:connector-curvature="0"
+           id="path1289"
+           d="M 45.472658,13.36631 H 31.72568"
+           style="fill:none;stroke:#787878;stroke-width:0.96627229px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" /><text
+           id="text1293"
+           y="14.782026"
+           x="21.632074"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             style="font-size:4px;fill:#666666"
+             y="14.782026"
+             x="21.632074"
+             id="tspan1291"
+             sodipodi:role="line">GND</tspan></text>
+</g><g
+         transform="translate(0,4.0042372)"
+         id="g1303"><path
+           style="fill:none;stroke:#787878;stroke-width:0.96627229px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 45.472658,13.36631 H 31.72568"
+           id="path1297"
+           inkscape:connector-curvature="0" /><text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           x="21.632074"
+           y="14.782026"
+           id="text1301"><tspan
+             sodipodi:role="line"
+             id="tspan1299"
+             x="21.632074"
+             y="14.782026"
+             style="font-size:4px;fill:#666666">5V</tspan></text>
+</g><g
+         id="g1311"
+         transform="translate(0,7.9283897)"><path
+           inkscape:connector-curvature="0"
+           id="path1305"
+           d="M 45.472658,13.36631 H 31.72568"
+           style="fill:none;stroke:#787878;stroke-width:0.96627229px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" /><text
+           id="text1309"
+           y="14.782026"
+           x="21.632074"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             style="font-size:4px;fill:#666666"
+             y="14.782026"
+             x="21.632074"
+             id="tspan1307"
+             sodipodi:role="line">SDA</tspan></text>
+</g><g
+         transform="translate(0,12.172881)"
+         id="g1319"><path
+           style="fill:none;stroke:#787878;stroke-width:0.96627229px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 45.472658,13.36631 H 31.72568"
+           id="path1313"
+           inkscape:connector-curvature="0" /><text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           x="21.632074"
+           y="14.782026"
+           id="text1317"><tspan
+             sodipodi:role="line"
+             id="tspan1315"
+             x="21.632074"
+             y="14.782026"
+             style="font-size:4px;fill:#666666">SCL</tspan></text>
+</g></g><g
+       id="g1355"
+       transform="translate(0,56.699999)"><g
+         id="g1329"><path
+           style="fill:none;stroke:#787878;stroke-width:0.96627229px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 45.472658,13.36631 H 31.72568"
+           id="path1323"
+           inkscape:connector-curvature="0" /><text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           x="21.632074"
+           y="14.782026"
+           id="text1327"><tspan
+             sodipodi:role="line"
+             id="tspan1325"
+             x="21.632074"
+             y="14.782026"
+             style="font-size:4px;fill:#666666">GND</tspan></text>
+</g><g
+         id="g1337"
+         transform="translate(0,4.0042372)"><path
+           inkscape:connector-curvature="0"
+           id="path1331"
+           d="M 45.472658,13.36631 H 31.72568"
+           style="fill:none;stroke:#787878;stroke-width:0.96627229px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" /><text
+           id="text1335"
+           y="14.782026"
+           x="21.632074"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             style="font-size:4px;fill:#666666"
+             y="14.782026"
+             x="21.632074"
+             id="tspan1333"
+             sodipodi:role="line">5V</tspan></text>
+</g><g
+         transform="translate(0,7.9283897)"
+         id="g1345"><path
+           style="fill:none;stroke:#787878;stroke-width:0.96627229px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 45.472658,13.36631 H 31.72568"
+           id="path1339"
+           inkscape:connector-curvature="0" /><text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           x="21.632074"
+           y="14.782026"
+           id="text1343"><tspan
+             sodipodi:role="line"
+             id="tspan1341"
+             x="21.632074"
+             y="14.782026"
+             style="font-size:4px;fill:#666666">SDA</tspan></text>
+</g><g
+         id="g1353"
+         transform="translate(0,12.172881)"><path
+           inkscape:connector-curvature="0"
+           id="path1347"
+           d="M 45.472658,13.36631 H 31.72568"
+           style="fill:none;stroke:#787878;stroke-width:0.96627229px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" /><text
+           id="text1351"
+           y="14.782026"
+           x="21.632074"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             style="font-size:4px;fill:#666666"
+             y="14.782026"
+             x="21.632074"
+             id="tspan1349"
+             sodipodi:role="line">SCL</tspan></text>
+</g></g><g
+       transform="translate(0,77.041524)"
+       id="g1389"><g
+         id="g1363"><path
+           inkscape:connector-curvature="0"
+           id="path1357"
+           d="M 45.472658,13.36631 H 31.72568"
+           style="fill:none;stroke:#787878;stroke-width:0.96627229px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" /><text
+           id="text1361"
+           y="14.782026"
+           x="21.632074"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             style="font-size:4px;fill:#666666"
+             y="14.782026"
+             x="21.632074"
+             id="tspan1359"
+             sodipodi:role="line">GND</tspan></text>
+</g><g
+         transform="translate(0,4.0042372)"
+         id="g1371"><path
+           style="fill:none;stroke:#787878;stroke-width:0.96627229px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 45.472658,13.36631 H 31.72568"
+           id="path1365"
+           inkscape:connector-curvature="0" /><text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           x="21.632074"
+           y="14.782026"
+           id="text1369"><tspan
+             sodipodi:role="line"
+             id="tspan1367"
+             x="21.632074"
+             y="14.782026"
+             style="font-size:4px;fill:#666666">5V</tspan></text>
+</g><g
+         id="g1379"
+         transform="translate(0,7.9283897)"><path
+           inkscape:connector-curvature="0"
+           id="path1373"
+           d="M 45.472658,13.36631 H 31.72568"
+           style="fill:none;stroke:#787878;stroke-width:0.96627229px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" /><text
+           id="text1377"
+           y="14.782026"
+           x="21.632074"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           xml:space="preserve"><tspan
+             style="font-size:4px;fill:#666666"
+             y="14.782026"
+             x="21.632074"
+             id="tspan1375"
+             sodipodi:role="line">SDA</tspan></text>
+</g><g
+         transform="translate(0,12.172881)"
+         id="g1387"><path
+           style="fill:none;stroke:#787878;stroke-width:0.96627229px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 45.472658,13.36631 H 31.72568"
+           id="path1381"
+           inkscape:connector-curvature="0" /><text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           x="21.632074"
+           y="14.782026"
+           id="text1385"><tspan
+             sodipodi:role="line"
+             id="tspan1383"
+             x="21.632074"
+             y="14.782026"
+             style="font-size:4px;fill:#666666">SCL</tspan></text>
+</g></g></g></g><g
+   id="g1423"
+   transform="translate(0,76.080032)"><g
+     id="g1397"><path
+       inkscape:connector-curvature="0"
+       id="path1391"
+       d="M 15.176429,23.219664 H 0.45302773"
+       style="fill:none;stroke:#787878;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" /><text
+       id="text1395"
+       y="24.578749"
+       x="16.762026"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-size:4px;fill:#666666"
+         y="24.578749"
+         x="16.762026"
+         id="tspan1393"
+         sodipodi:role="line">GND</tspan></text>
+</g><g
+     transform="translate(-0.16693981,4.3968278)"
+     id="g1405"><path
+       inkscape:connector-curvature="0"
+       id="path1399"
+       d="M 15.176429,23.219664 H 0.45302773"
+       style="fill:none;stroke:#787878;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" /><text
+       id="text1403"
+       y="24.578749"
+       x="16.762026"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-size:4px;fill:#666666"
+         y="24.578749"
+         x="16.762026"
+         id="tspan1401"
+         sodipodi:role="line">5V</tspan></text>
+</g><g
+     transform="translate(-0.16693974,8.9271048)"
+     id="g1413"><path
+       inkscape:connector-curvature="0"
+       id="path1407"
+       d="M 15.176429,23.219664 H 0.45302773"
+       style="fill:none;stroke:#787878;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" /><text
+       id="text1411"
+       y="24.578749"
+       x="16.762026"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-size:4px;fill:#666666"
+         y="24.578749"
+         x="16.762026"
+         id="tspan1409"
+         sodipodi:role="line">Rx</tspan></text>
+</g><g
+     transform="translate(0.05957413,13.004354)"
+     id="g1421"><path
+       inkscape:connector-curvature="0"
+       id="path1415"
+       d="M 15.176429,23.219664 H 0.45302773"
+       style="fill:none;stroke:#787878;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" /><text
+       id="text1419"
+       y="24.578749"
+       x="16.762026"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-size:4px;fill:#666666"
+         y="24.578749"
+         x="16.762026"
+         id="tspan1417"
+         sodipodi:role="line">Tx</tspan></text>
+</g></g><g
+   transform="translate(0,95.62071)"
+   id="g1457"><g
+     id="g1431"><path
+       style="fill:none;stroke:#787878;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 15.176429,23.219664 H 0.45302773"
+       id="path1425"
+       inkscape:connector-curvature="0" /><text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="16.762026"
+       y="24.578749"
+       id="text1429"><tspan
+         sodipodi:role="line"
+         id="tspan1427"
+         x="16.762026"
+         y="24.578749"
+         style="font-size:4px;fill:#666666">GND</tspan></text>
+</g><g
+     id="g1439"
+     transform="translate(-0.16693981,4.3968278)"><path
+       style="fill:none;stroke:#787878;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 15.176429,23.219664 H 0.45302773"
+       id="path1433"
+       inkscape:connector-curvature="0" /><text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="16.762026"
+       y="24.578749"
+       id="text1437"><tspan
+         sodipodi:role="line"
+         id="tspan1435"
+         x="16.762026"
+         y="24.578749"
+         style="font-size:4px;fill:#666666">5V</tspan></text>
+</g><g
+     id="g1447"
+     transform="translate(-0.16693974,8.9271048)"><path
+       style="fill:none;stroke:#787878;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 15.176429,23.219664 H 0.45302773"
+       id="path1441"
+       inkscape:connector-curvature="0" /><text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="16.762026"
+       y="24.578749"
+       id="text1445"><tspan
+         sodipodi:role="line"
+         id="tspan1443"
+         x="16.762026"
+         y="24.578749"
+         style="font-size:4px;fill:#666666">Rx</tspan></text>
+</g><g
+     id="g1455"
+     transform="translate(0.05957413,13.004354)"><path
+       style="fill:none;stroke:#787878;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 15.176429,23.219664 H 0.45302773"
+       id="path1449"
+       inkscape:connector-curvature="0" /><text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="16.762026"
+       y="24.578749"
+       id="text1453"><tspan
+         sodipodi:role="line"
+         id="tspan1451"
+         x="16.762026"
+         y="24.578749"
+         style="font-size:4px;fill:#666666">Tx</tspan></text>
+</g></g><text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+   x="-104.70394"
+   y="52.854946"
+   id="text1461"
+   transform="rotate(-90)"><tspan
+     sodipodi:role="line"
+     id="tspan1459"
+     x="-104.70394"
+     y="52.854946"
+     style="font-size:8px">senseBox MCU</tspan></text>
+</svg>
